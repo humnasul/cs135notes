@@ -1,4 +1,4 @@
-# cs135Notes
+# cs135notes
 A collection of notes + code from CS135 (discrete structures) at Stevens Institute of Technology  
 with Professor Sandeep Bhatt (Spring 2023)  
 **Documents in this repo:**  
